@@ -1,0 +1,23 @@
+body
+{
+background-color: grey;
+border: 15px solid black;
+color: purple;
+text-align: center;
+font-family: 'Saira', sans-serif;
+font-family: 'Fascinate Inline', cursive;
+
+} 
+
+img { border: 6px dotted black; }
+
+h1{ 
+    text-align: center;
+    color: purple;}
+
+h2{  }
+
+img{ 
+    width: 300px;}
+
+
